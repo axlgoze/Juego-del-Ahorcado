@@ -1,6 +1,13 @@
 .logo{
+    display: inline-block;
+    width: 27px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 10px;
     background-image: url(./../assets/logo.png);
-
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 #canvasone{
