@@ -50,3 +50,11 @@ A continuacion se presentan bocetaje que se uso para el desarrollo de este proye
 - Uso de `Git` & `GitHub`
 - Uso de `Trello` como apoyo para sprints del proyecto
 - Uso de Figma para la maquetación.
+
+
+### TO DO LIST
+
+width base: 1280x
+
+- modificar medidas canvas pagina de inicio
+- modificar interfaz de acuerdo a medida base
