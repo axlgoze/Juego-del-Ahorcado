@@ -1,0 +1,15 @@
+.logo{
+    background-image: url(./../assets/logo.png);
+
+}
+
+#canvasone{
+    border: solid gold;
+    display: flex;
+    margin: 140px auto;
+}
+.canvas1{
+    border: salmon solid;
+    width: 100%;
+    height: auto;
+}
