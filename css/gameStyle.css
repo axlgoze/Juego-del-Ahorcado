@@ -68,13 +68,14 @@ html{
 }
 
 #nwButton:hover{
-    background-color: crimson;
+    background-color: #4CAF50;
     transition-duration: 0.4s;
     border: none;
+    color: white;
 }
 
 #quButton:hover{
-    background-color: crimson;
+    background-color:  #555555;
     transition-duration: 0.4s;
     color: white;
     border: none;
