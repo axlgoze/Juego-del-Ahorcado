@@ -56,5 +56,5 @@ A continuacion se presentan bocetaje que se uso para el desarrollo de este proye
 
 width base: 1280x
 
-- modificar medidas canvas pagina de inicio
-- modificar interfaz de acuerdo a medida base
+- ~~modificar medidas canvas pagina de inicio~~
+- ~~modificar interfaz de acuerdo a medida base~~
