@@ -58,11 +58,13 @@ html{
     font-size: 1.9rem;
     background-color: var(--color-secondary);
     color: white;
+    cursor: pointer;
 }
 
 #adButton{
     font-size: 1.9rem;
     color: var(--color-secondary);
+    cursor: pointer;
 }
 
 .main-socialMedia{
