@@ -4,7 +4,6 @@ html{
     background-color: var(--color-primary);
 }
 
-
 :root{
     /* colores */
     --color-primary: #f3f5fc;
@@ -23,17 +22,6 @@ html{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-}
-
-#canvasthree{
-    /* border: solid gold; */
-    display: flex;
-    margin: 15px auto;
-}
-.canvas3{
-    /* border: salmon solid; */
-    width: 100%;
-    height: 450px;
 }
 
 .entrada-input{
@@ -58,11 +46,34 @@ html{
 .main-buttons--container{
     /* border: solid fuchsia; */
     width: 100%;
-    height: 110px;
+    height: 67px;
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 30px;
+    /* margin-top: 30px; */
+}
+
+.icon-warning{
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    /* margin-top: 10px; */
+    /* margin-left: 10px; */
+    background-image: url(./../assets/warning.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.msg-warning{
+    display: inline-block;
+    margin-left: 15px;
+    font-size: 1.5rem;
+    color: var(--color-gray);
+}
+
+.icon-warning {
+    margin-left: 269px;
 }
 
 .main-buttons--container button{
