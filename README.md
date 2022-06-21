@@ -58,3 +58,4 @@ width base: 1280x
 
 - ~~modificar medidas canvas pagina de inicio~~
 - ~~modificar interfaz de acuerdo a medida base~~
+- crear funcion para crear n numero de lineas base de acuerdo al numero de letras de la palabra (max 8)
