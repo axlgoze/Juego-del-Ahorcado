@@ -36,6 +36,25 @@ html{
     height: 450px;
 }
 
+.entrada-input{
+    /* border: solid peru; */
+    width: 50%;
+    height: 400px;
+    margin: 10px auto;
+}
+
+.entrada-input input{
+    border: none;
+    width: 99%;
+    height: 399px;
+    background-color: transparent;
+    font-size: 2.5rem;
+    text-align: center;
+    color: #4CAF50;
+    font-weight: 400;
+    line-height: 48px;
+}
+
 .main-buttons--container{
     /* border: solid fuchsia; */
     width: 100%;
