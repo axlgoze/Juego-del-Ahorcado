@@ -17,13 +17,13 @@
         </section>
         <section class="entrada">
             <div class="entrada-input">
-                <input type="text" name="entrada" id="" placeholder="Ingresa nueva palabra" minlength="8" maxlength="8">
+                <input type="text" name="nuevaEntrada" id="nuevaEntrada" placeholder="Ingresa nueva palabra" minlength="8" maxlength="8">
             </div>
         </section>
         <section class="main-buttons">
             <span class="icon-warning"></span><p class="msg-warning">Max. de 8 letras.</p>
             <div class="main-buttons--container">
-                <button id="anwButton">Add</button> <!-- genera otra palabra -->
+                <button id="anwButton" name="anwButton" onclick="addWord()">Add</button> <!-- genera otra palabra -->
                 <button id="ngButton" onclick="location.href='./game.html'">New Game</button>
             </div>
         </section>
