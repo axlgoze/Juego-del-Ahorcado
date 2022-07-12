@@ -12,6 +12,9 @@ function addWord(newWord){
     for(i=0;i<words.length;i++){
         console.log(words[i]);
     }
+    document.getElementById("nuevaEntrada").value="";
+    alert("Palabra agregada correctamente");
+
 }
 
 //addWord(sol);
